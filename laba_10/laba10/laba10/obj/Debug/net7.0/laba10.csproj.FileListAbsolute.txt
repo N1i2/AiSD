@@ -1,0 +1,14 @@
+E:\универ\AISD\laba_10!\laba10\laba10\bin\Debug\net7.0\laba10.exe
+E:\универ\AISD\laba_10!\laba10\laba10\bin\Debug\net7.0\laba10.deps.json
+E:\универ\AISD\laba_10!\laba10\laba10\bin\Debug\net7.0\laba10.runtimeconfig.json
+E:\универ\AISD\laba_10!\laba10\laba10\bin\Debug\net7.0\laba10.dll
+E:\универ\AISD\laba_10!\laba10\laba10\bin\Debug\net7.0\laba10.pdb
+E:\универ\AISD\laba_10!\laba10\laba10\obj\Debug\net7.0\laba10.GeneratedMSBuildEditorConfig.editorconfig
+E:\универ\AISD\laba_10!\laba10\laba10\obj\Debug\net7.0\laba10.AssemblyInfoInputs.cache
+E:\универ\AISD\laba_10!\laba10\laba10\obj\Debug\net7.0\laba10.AssemblyInfo.cs
+E:\универ\AISD\laba_10!\laba10\laba10\obj\Debug\net7.0\laba10.csproj.CoreCompileInputs.cache
+E:\универ\AISD\laba_10!\laba10\laba10\obj\Debug\net7.0\laba10.dll
+E:\универ\AISD\laba_10!\laba10\laba10\obj\Debug\net7.0\refint\laba10.dll
+E:\универ\AISD\laba_10!\laba10\laba10\obj\Debug\net7.0\laba10.pdb
+E:\универ\AISD\laba_10!\laba10\laba10\obj\Debug\net7.0\laba10.genruntimeconfig.cache
+E:\универ\AISD\laba_10!\laba10\laba10\obj\Debug\net7.0\ref\laba10.dll

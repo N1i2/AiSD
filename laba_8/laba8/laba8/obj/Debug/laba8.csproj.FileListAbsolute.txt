@@ -1,0 +1,9 @@
+E:\универ\AISD\laba_8!\laba8\laba8\bin\Debug\laba8.exe.config
+E:\универ\AISD\laba_8!\laba8\laba8\bin\Debug\laba8.exe
+E:\универ\AISD\laba_8!\laba8\laba8\bin\Debug\laba8.pdb
+E:\универ\AISD\laba_8!\laba8\laba8\obj\Debug\laba8.csproj.AssemblyReference.cache
+E:\универ\AISD\laba_8!\laba8\laba8\obj\Debug\laba8.csproj.CoreCompileInputs.cache
+E:\универ\AISD\laba_8!\laba8\laba8\obj\Debug\laba8.exe
+E:\универ\AISD\laba_8!\laba8\laba8\obj\Debug\laba8.pdb
+E:\универ\AISD\laba_8!\laba8\laba8\bin\Debug\SoapFormatter.dll
+E:\универ\AISD\laba_8!\laba8\laba8\obj\Debug\laba8.csproj.CopyComplete

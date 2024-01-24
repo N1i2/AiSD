@@ -1,0 +1,7 @@
+E:\универ\AISD\laba_4\laba_4\laba_4\bin\Debug\laba_4.exe.config
+E:\универ\AISD\laba_4\laba_4\laba_4\bin\Debug\laba_4.exe
+E:\универ\AISD\laba_4\laba_4\laba_4\bin\Debug\laba_4.pdb
+E:\универ\AISD\laba_4\laba_4\laba_4\obj\Debug\laba_4.csproj.AssemblyReference.cache
+E:\универ\AISD\laba_4\laba_4\laba_4\obj\Debug\laba_4.csproj.CoreCompileInputs.cache
+E:\универ\AISD\laba_4\laba_4\laba_4\obj\Debug\laba_4.exe
+E:\универ\AISD\laba_4\laba_4\laba_4\obj\Debug\laba_4.pdb

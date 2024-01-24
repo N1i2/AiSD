@@ -1,0 +1,7 @@
+E:\универ\AISD\laba_2\laba2\laba2\bin\Debug\laba2.exe.config
+E:\универ\AISD\laba_2\laba2\laba2\bin\Debug\laba2.exe
+E:\универ\AISD\laba_2\laba2\laba2\bin\Debug\laba2.pdb
+E:\универ\AISD\laba_2\laba2\laba2\obj\Debug\laba2.csproj.AssemblyReference.cache
+E:\универ\AISD\laba_2\laba2\laba2\obj\Debug\laba2.csproj.CoreCompileInputs.cache
+E:\универ\AISD\laba_2\laba2\laba2\obj\Debug\laba2.exe
+E:\универ\AISD\laba_2\laba2\laba2\obj\Debug\laba2.pdb

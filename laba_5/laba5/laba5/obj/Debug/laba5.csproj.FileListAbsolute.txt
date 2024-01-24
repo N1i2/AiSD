@@ -1,0 +1,7 @@
+E:\универ\AISD\laba_5\laba5\laba5\bin\Debug\laba5.exe.config
+E:\универ\AISD\laba_5\laba5\laba5\bin\Debug\laba5.exe
+E:\универ\AISD\laba_5\laba5\laba5\bin\Debug\laba5.pdb
+E:\универ\AISD\laba_5\laba5\laba5\obj\Debug\laba5.csproj.AssemblyReference.cache
+E:\универ\AISD\laba_5\laba5\laba5\obj\Debug\laba5.csproj.CoreCompileInputs.cache
+E:\универ\AISD\laba_5\laba5\laba5\obj\Debug\laba5.exe
+E:\универ\AISD\laba_5\laba5\laba5\obj\Debug\laba5.pdb
